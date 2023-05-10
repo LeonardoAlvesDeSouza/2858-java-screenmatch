@@ -21,5 +21,6 @@ public class Main {
 
         int classificacao = (int) (media /2);
         System.out.println(classificacao);
+
     }
 }
